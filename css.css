@@ -1,0 +1,5 @@
+.nav {height: 40px; width: 40px;}
+.foto{border-radius: 50%; height: 40px; width: 40px;}
+.cima {padding: 0px;}
+.linhaNav {border-top: 20px; border-bottom: 10px;}
+a.nav-link {color: gray;}
