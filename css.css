@@ -1,5 +1,35 @@
-.nav {height: 40px; width: 40px;}
-.foto{border-radius: 50%; height: 40px; width: 40px;}
+.nav {height: 40px; width: 40px; margin-left: -90px;}
+.foto{border-radius: 50%; height: 40px; width: 40px; margin-left: 5px;}
 .cima {padding: 0px;}
 .linhaNav {border-top: 20px; border-bottom: 10px;}
 a.nav-link {color: gray;}
+.azul{background-color: #1E90FF; margin-top: 15px; height: 90px;}
+.branco{background-color: white; height: 53px;}
+.foto2{border-radius: 50%; height: 60px; width: 60px; margin-top: -25px; border: 5%;}
+.cinzamail{margin-top: -10px; color: gray;}
+a.linkp{color: black;}
+.azulCar{color: #1E90FF;}
+.cinzacar{font-size: 11px; color: gray;}
+#peqazul{font-size: 11px; color: #1E90FF;}
+.lista{margin-top: 5px; color: #1E90FF;}
+#tituloL{margin-top: 10px; color: black;}
+.lista2{font-size: 11px; color: gray; margin-top: -5px;}
+col.pt3{margin-top: 10px;}
+img.fotoP{border-radius: 50%; height: 60px; width: 60px;}
+.pt3L{margin-top: 10px;}
+.pt3L2 {margin-top: 30px; background-color: white; height: 175px;}
+h4{margin-top: 10px;}
+h6{color: black;}
+body{background-color: #ebf0fa;}
+.coluna3 {margin-top: 15px; height: 430px;}
+#QQ {margin-left: 10px;}
+.coluna2 {margin-top: 15px;}
+.ajuste {margin-top: -3px;}
+#peq {font-size: 14px;}
+#linkfalse {font-size: 14px; color: gray; margin-top: 5px;}
+
+
+.capa {background-color: #1E90FF; height: 200px;}
+.fotoPerfil{border-radius: 50%; height: 200px; width: 200px; margin-top: -130px; margin-bottom: -10px;}
+.capa2{background-color: white;}
+.valores{text-align: center;}
